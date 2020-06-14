@@ -17,7 +17,7 @@
 					<version>3.0.0-M4</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>smoke.xml</suiteXmlFile>
+							<suiteXmlFile>regressionTest.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
